@@ -1,9 +1,3 @@
-11.Mai.21 14:57:55 com.felix.util.logging.Log4JLogger - Speechalyzer 2.1
-11.Mai.21 14:57:55 com.tlabs.speechalyzer.classifier.WEKAClassifier - loading model from file /Users/luisehaubenreiser/Speechalyzer-master/res/classifierAnger_smo.model...
-11.Mai.21 14:57:56 com.felix.util.logging.Log4JLogger - loading audio files from /Users/luisehaubenreiser/sprechstil/s_sprechstil/audio...
-11.Mai.21 14:57:56 com.felix.util.logging.Log4JLogger - AFM: added ALL: #files: 37, 5497920 bytes (5497 kb, 5 mb), secs: 171, mins: 2.85, hours: 0.05, avr sec: 4.62, ANGER: #files: 68, 5389760 bytes (5389 kb, 5 mb), secs: 168, mins: 2.8, hours: 0.05, avr sec: 2.47
-
-11.Mai.21 14:57:56 com.felix.util.logging.Log4JLogger - printing out labels
 /Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000026.wav 4.0
 /Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000032.wav 3.0
 /Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000033.wav 3.0
