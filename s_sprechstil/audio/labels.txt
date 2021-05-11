@@ -1,0 +1,43 @@
+11.Mai.21 14:57:55 com.felix.util.logging.Log4JLogger - Speechalyzer 2.1
+11.Mai.21 14:57:55 com.tlabs.speechalyzer.classifier.WEKAClassifier - loading model from file /Users/luisehaubenreiser/Speechalyzer-master/res/classifierAnger_smo.model...
+11.Mai.21 14:57:56 com.felix.util.logging.Log4JLogger - loading audio files from /Users/luisehaubenreiser/sprechstil/s_sprechstil/audio...
+11.Mai.21 14:57:56 com.felix.util.logging.Log4JLogger - AFM: added ALL: #files: 37, 5497920 bytes (5497 kb, 5 mb), secs: 171, mins: 2.85, hours: 0.05, avr sec: 4.62, ANGER: #files: 68, 5389760 bytes (5389 kb, 5 mb), secs: 168, mins: 2.8, hours: 0.05, avr sec: 2.47
+
+11.Mai.21 14:57:56 com.felix.util.logging.Log4JLogger - printing out labels
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000026.wav 4.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000032.wav 3.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000033.wav 3.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000027.wav 5.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000019.wav 5.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000031.wav 3.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000025.wav 3.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000024.wav 4.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000030.wav 3.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000018.wav 5.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000034.wav 5.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000020.wav 5.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000008.wav 4.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000009.wav 4.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000021.wav 5.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000035.wav 5.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000023.wav 5.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000036.wav 0.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000022.wav 5.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000007.wav 3.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000013.wav 3.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000012.wav 3.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000006.wav 3.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000010.wav 0.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000004.wav 3.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000005.wav 3.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000011.wav 0.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000015.wav 3.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000001.wav 4.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000029.wav 4.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000028.wav 5.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000000.wav 3.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000014.wav 3.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000002.wav 3.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000016.wav 4.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000017.wav 5.0
+/Users/luisehaubenreiser/sprechstil/s_sprechstil/audio/Haubenreiser_16_seg_00000003.wav 3.0
