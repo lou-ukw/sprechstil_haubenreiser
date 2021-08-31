@@ -25,12 +25,12 @@ In order to run this project, some preliminary steps are necessary:
 
 ## Documentation
 
-After configuring a python environment with Jupyter notebook the audio and its annotations are first imported into a pandas table and then analyzed step by step according to the Feinberg PraatScripts. 
+After configuring a python environment with Jupyter notebook the audio and its annotations are first imported into a pandas table and then analyzed step by step according to the Feinberg PraatScripts. In intermediate steps, the obtained data is combined with the annotations priorly given to the different audio segments.
 Necessary information on the single steps is included in the notebook.
 
 #### Extracting Acoustic Features
 
-The [PraatScripts](https://github.com/drfeinberg/PraatScripts) offer a comprehensible code to perform your analyses. Nevertheless, you might need to adapt the scripts to fit your needs.
+The [PraatScripts](https://github.com/drfeinberg/PraatScripts) and this notebook offer a comprehensible code to perform your analyses. Nevertheless, you might need to adapt the scripts to fit your needs.
 
 The overall analysis includes:
 - Formants
